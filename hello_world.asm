@@ -1,5 +1,7 @@
 ;Copyright (c) 1999 Konstantin Boldyshev <konst@linuxassembly.org>
 ;
+;for x86 intel processors
+;
 ;"hello, world" in assembly language for Linux
 ;
 ;to build an executable:
